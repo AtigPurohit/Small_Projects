@@ -1,1 +1,1 @@
-This is an app that will work as a dice.
+This is a basic dice game where the user will be playing against the CPU and who ever gets a higher number will get one point.
